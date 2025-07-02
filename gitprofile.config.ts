@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '#', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/user-attachments/files/21015962/cv.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C#',
