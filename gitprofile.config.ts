@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'KZ Framework UI tools',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '.NET Framework 4.7.2 için geliştirilmiş bu özel UI kit, projelerinize modern bir görünüm, akıcı animasyonlar ve üst düzey kullanıcı deneyimi kazandırır.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/KeremZayim/KZ-UI-Kit',
         },
         {
-          title: 'Project Name',
+          title: 'Neuro Task',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'NeuroTask, kullanıcıların günlük görevlerini takip etmelerini ve odaklanmalarını destekleyen, yapay zekâ destekli bir masaüstü uygulamasıdır. .NET 8 ile geliştirilmiş olup, ileride mobil versiyonlarla senkronize çalışması hedeflenmektedir. Yapay zekâ modülü, görev önerileri ve odak süresi optimizasyonu gibi özellikler sunar.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/KeremZayim/NeuroTask',
         },
       ],
     },
