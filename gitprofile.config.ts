@@ -91,6 +91,13 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Adalet Bakanlığı',
+      position: 'Intern',
+      from: 'July 2025',
+      to: 'August 2025',
+      companyLink: 'https://www.adalet.gov.tr/',
+    },
+    {
       company: 'Logo Yazılım',
       position: 'Intern',
       from: 'September 2022',
